@@ -134,7 +134,7 @@ body {
 	z-index: 1;
 }
 .climate-text-1 {
-	color: #ff0000;
+	color: #ff0000;text-decoration:underline;
 	font-size: 1.2em;
 }
 .earth-a {
@@ -151,3 +151,5 @@ body {
 		opacity: 0;
 	}
 }
+
+.climate-text-color{color:#2edaff;text-decoration:underline;}
